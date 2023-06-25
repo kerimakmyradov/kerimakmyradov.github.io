@@ -1,0 +1,27 @@
+body {
+    background-color: #d7d7d7;
+    color: black;
+}
+
+h1{
+    color: rgb(12, 12, 110);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+h3{
+    color: rgb(6, 6, 112);
+}
+
+#header{
+    text-align: center;
+}
+
+.custom-tooltip {
+    --bs-tooltip-bg: var(--bs-primary);
+  }
+
+.scrollspy{
+    height: 350px;
+    overflow: auto;
+    border: 2px solid rgb(235, 229, 229);
+}
